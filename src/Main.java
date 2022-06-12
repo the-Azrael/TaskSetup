@@ -15,7 +15,6 @@ public class Main {
     private static File drawablesFile = new File(resFile + "//drawables");
     private static File vectorsFile = new File(resFile + "//vectors");
     private static File iconsFile = new File(resFile + "//icons");
-
     private static File saveGamesFile = new File(GAMES_DIR + "//savegames");
 
     private static void addFileMessage(File file) {
